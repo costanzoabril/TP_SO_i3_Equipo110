@@ -1,0 +1,47 @@
+processor       : 0
+vendor_id       : GenuineIntel
+cpu family      : 6
+model           : 122
+model name      : Intel(R) Celeron(R) N4000 CPU @ 1.10GHz
+stepping        : 1
+cpu MHz         : 1094.000
+cache size      : 0 KB
+physical id     : 0
+siblings        : 2
+core id         : 0
+cpu cores       : 1
+apicid          : 0
+initial apicid  : 0
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 24
+wp              : yes
+flags           : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe pni dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm sse4_1 sse4_2 x2apic movbe popcnt aes xsave osxsave rdrand lahf_lm ida arat xsaveopt pln pts dtherm fsgsbase tsc_adjust smep erms mpx rdseed smap clflushopt
+clflush size    : 64
+cache_alignment : 64
+address sizes   : 39 bits physical, 48 bits virtual
+power management:
+
+processor       : 1
+vendor_id       : GenuineIntel
+cpu family      : 6
+model           : 122
+model name      : Intel(R) Celeron(R) N4000 CPU @ 1.10GHz
+stepping        : 1
+cpu MHz         : 1094.000
+cache size      : 0 KB
+physical id     : 0
+siblings        : 2
+core id         : 1
+cpu cores       : 1
+apicid          : 2
+initial apicid  : 2
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 24
+wp              : yes
+flags           : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe pni dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm sse4_1 sse4_2 x2apic movbe popcnt aes xsave osxsave rdrand lahf_lm ida arat xsaveopt pln pts dtherm fsgsbase tsc_adjust smep erms mpx rdseed smap clflushopt
+clflush size    : 64
+cache_alignment : 64
+address sizes   : 39 bits physical, 48 bits virtual
+power management:
