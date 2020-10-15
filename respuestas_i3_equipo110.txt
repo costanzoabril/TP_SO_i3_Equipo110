@@ -5,3 +5,23 @@ c- git merge Muñoz
    git add .
    git commit -m ""
    git push
+
+d- Las ramas creadas por Beta y Gamma no quedan actualizadas.
+
+e- Tuve problemas para hacer el merge, pero los solucione aclarando el repositorio y la rama con el siguiente comando:
+
+"git pull https://github.com/costanzoabril/TP_SO_i3_Equipo110.git Costanzo"
+
+f- git status
+   git checkout costanzo
+   git checkout Costanzo
+   git checkout -b Costanzo
+   git pull
+   git pull Costanzo
+   git pull https://github.com/costanzoabril/TP_SO_i3_Equipo110.git Costanzo
+   ifconfig
+   ipconfig
+   git add .
+   git commit -m "Segundo commit de Gamma"
+   git push
+   git push --set-upstream origin Costanzo
