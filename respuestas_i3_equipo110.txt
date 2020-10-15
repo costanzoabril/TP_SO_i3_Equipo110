@@ -1,0 +1,7 @@
+a- El master queda con todos los archivos de las ramas.
+b- Si, pude ver todos los cambios.
+c- git merge Muñoz
+   git add datos.txt
+   git add .
+   git commit -m ""
+   git push
