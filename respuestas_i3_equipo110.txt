@@ -25,3 +25,11 @@ f- git status
    git commit -m "Segundo commit de Gamma"
    git push
    git push --set-upstream origin Costanzo
+
+G-
+git pull (pulleo desde main, para tener la branch Costanzo)
+git branch -a (veo las branches del repositorio)
+git checkout --track /origin/Costanzo (creo localmente el branch de Beta)
+git add . (guardo cambios)
+git commit -m""(guardo commit)
+git push (pusheo localmente a la branch creada por beta)
